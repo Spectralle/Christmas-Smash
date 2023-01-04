@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settings>
+    <ProjectSetting Value="0" ValueType="Int32" Key="VersionMajor" />
+    <ProjectSetting Value="1" ValueType="Int32" Key="VersionMinor" />
+    <ProjectSetting Value="0" ValueType="Int32" Key="VersionRevision" />
+    <ProjectSetting Value="0" ValueType="String" Key="VersionBuild" />
+    <ProjectSetting Value="Christmas Smash" ValueType="String" Key="Title" />
+    <ProjectSetting Value="Tempored Insanity Studio" ValueType="String" Key="Company" />
+    <ProjectSetting Value="True" ValueType="Boolean" Key="SetBundleIdentifier" />
+  </Settings>
+</ProjectSettings>
